@@ -30,6 +30,18 @@ fun_fact: "Positive mind, happy face 😅"
 
 ---
 
+### 💻 Live Terminal
+
+<div align="center">
+
+🔴 🟡 🟢&nbsp;&nbsp;`bash — 80×24`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=900&color=39FF14&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=780&height=230&lines=guest@anandu-dev:~%24+whoami;Anandu+Sabu+-+Full-Stack+%26+Mobile+Developer;guest@anandu-dev:~%24+cat+about.txt;MCA+Graduate+%7C+Django+%2B+Flutter+%2B+AI%2FCV;guest@anandu-dev:~%24+ls+projects%2F;waste-mgmt+real-estate+ai-fitness-tracker+news-app;guest@anandu-dev:~%24+echo+%24STATUS;Open+to+Software+Developer+roles" alt="Live terminal" width="780"/>
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Backend**
@@ -185,14 +197,15 @@ fun_fact: "Positive mind, happy face 😅"
 
 </div>
 
-<!--
-  🐍 Optional: animated contribution snake
-  1) Create .github/workflows/snake.yml in this repo (ANANDU-SABU/ANANDU-SABU) using the
-     Platane/snk GitHub Action: https://github.com/Platane/snk
-  2) Once it runs once, uncomment the line below.
+#### 🐍 Live Contribution Snake
 
-<img src="https://raw.githubusercontent.com/ANANDU-SABU/ANANDU-SABU/output/github-contribution-grid-snake-dark.svg" width="100%"/>
--->
+> Real, auto-updating — regenerated daily from your actual commit graph by the `snake.yml` workflow below.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ANANDU-SABU/ANANDU-SABU/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</div>
+
+<sup>⚠️ This image goes live only after you add <code>.github/workflows/snake.yml</code> (provided separately) to this repo and it runs once — see setup note below.</sup>
 
 ---
 
