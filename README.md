@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=MCA+Graduate+%7C+Full-Stack+%26+Mobile+Developer;AI+%2F+Computer+Vision+Enthusiast;Building+seamless%2C+user-friendly+applications" alt="Typing SVG" />
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ANANDU-SABU&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ANANDU-SABU)
 [![GitHub followers](https://img.shields.io/github/followers/ANANDU-SABU?style=for-the-badge&color=6366f1&labelColor=black)](https://github.com/ANANDU-SABU)
