@@ -3,8 +3,8 @@
 <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Anandu%20Sabu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Mobile%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ4MDVzMm93bmtuZnQwMTY5dWJvaTFoeHU2bHVvcmQ3ZDI4dDlpZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qGvmdlfJ0FtBSwxqA3/giphy.webp)"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=MCA+Graduate+%7C+Full-Stack+%26+Mobile+Developer;AI+%2F+Computer+Vision+Enthusiast;Building+seamless%2C+user-friendly+applications" alt="Typing SVG" />
-</div>
-<div>
+
+
 [![Profile Views](https://komarev.com/ghpvc/?username=ANANDU-SABU&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ANANDU-SABU)
 [![GitHub followers](https://img.shields.io/github/followers/ANANDU-SABU?style=for-the-badge&color=6366f1&labelColor=black)](https://github.com/ANANDU-SABU)
 
